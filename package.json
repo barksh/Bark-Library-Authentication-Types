@@ -1,0 +1,34 @@
+{
+  "name": "@barksh/authentication-types",
+  "version": "1.0.0",
+  "description": "Authentication Types Library for Bark",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarkSH/Bark-Library-Authentication-Types.git"
+  },
+  "author": "WMXPY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BarkSH/Bark-Library-Authentication-Types/issues"
+  },
+  "homepage": "https://github.com/BarkSH/Bark-Library-Authentication-Types#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@sudoo/triforce": "^3.10.1"
+  },
+  "nyc": {
+    "extension": [
+      ".ts"
+    ],
+    "include": [
+      "src/**/*.ts"
+    ],
+    "instrument": true,
+    "reporter": [
+      "json",
+      "text-summary"
+    ],
+    "report-dir": "coverage",
+    "sourceMap": true
+  }
+}
