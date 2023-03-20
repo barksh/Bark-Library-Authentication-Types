@@ -14,7 +14,7 @@
   "homepage": "https://github.com/BarkSH/Bark-Library-Authentication-Types#readme",
   "dependencies": {},
   "devDependencies": {
-    "@sudoo/triforce": "^3.10.1"
+    "@sudoo/triforce": "^3.11.0"
   },
   "nyc": {
     "extension": [
