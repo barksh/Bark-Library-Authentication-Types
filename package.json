@@ -1,6 +1,6 @@
 {
   "name": "@barksh/authentication-types",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Authentication Types Library for Bark",
   "repository": {
     "type": "git",
@@ -12,7 +12,6 @@
     "url": "https://github.com/BarkSH/Bark-Library-Authentication-Types/issues"
   },
   "homepage": "https://github.com/BarkSH/Bark-Library-Authentication-Types#readme",
-  "dependencies": {},
   "devDependencies": {
     "@sudoo/triforce": "^3.11.0"
   },
